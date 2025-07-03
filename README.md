@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishwashankar1304/leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/vishwashankar1304/leetcode/tree/master/0443-string-compression) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/vishwashankar1304/leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
