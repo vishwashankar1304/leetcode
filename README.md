@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/vishwashankar1304/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vishwashankar1304/leetcode/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/vishwashankar1304/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vishwashankar1304/leetcode/tree/master/0443-string-compression) |
 ## Array
 |  |
