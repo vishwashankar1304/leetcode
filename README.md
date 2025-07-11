@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vishwashankar1304/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
