@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/vishwashankar1304/leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vishwashankar1304/leetcode/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
