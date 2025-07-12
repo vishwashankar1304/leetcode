@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishwashankar1304/leetcode/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
