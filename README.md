@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishwashankar1304/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/vishwashankar1304/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vishwashankar1304/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/vishwashankar1304/leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vishwashankar1304/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
