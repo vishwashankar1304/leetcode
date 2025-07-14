@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vishwashankar1304/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vishwashankar1304/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/vishwashankar1304/leetcode/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/vishwashankar1304/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vishwashankar1304/leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vishwashankar1304/leetcode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/vishwashankar1304/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/vishwashankar1304/leetcode/tree/master/0213-house-robber-ii) |
 ## Hash Table
 |  |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishwashankar1304/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vishwashankar1304/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
