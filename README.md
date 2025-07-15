@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishwashankar1304/leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/vishwashankar1304/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vishwashankar1304/leetcode/tree/master/0443-string-compression) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/vishwashankar1304/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vishwashankar1304/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/vishwashankar1304/leetcode/tree/master/0204-count-primes) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vishwashankar1304/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
