@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishwashankar1304/leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/vishwashankar1304/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vishwashankar1304/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vishwashankar1304/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
