@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vishwashankar1304/leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/vishwashankar1304/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vishwashankar1304/leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/vishwashankar1304/leetcode/tree/master/1258-article-views-i) |
