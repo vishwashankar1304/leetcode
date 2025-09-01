@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/vishwashankar1304/leetcode/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/vishwashankar1304/leetcode/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/vishwashankar1304/leetcode/tree/master/0185-department-top-three-salaries) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/vishwashankar1304/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/vishwashankar1304/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/vishwashankar1304/leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/vishwashankar1304/leetcode/tree/master/1258-article-views-i) |
