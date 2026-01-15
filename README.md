@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/vishwashankar1304/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/vishwashankar1304/leetcode/tree/master/0443-string-compression) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/vishwashankar1304/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Array
 |  |
 | ------- |
@@ -81,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vishwashankar1304/leetcode/tree/master/0055-jump-game) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/vishwashankar1304/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vishwashankar1304/leetcode/tree/master/0204-count-primes) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/vishwashankar1304/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
